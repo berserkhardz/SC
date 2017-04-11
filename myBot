@@ -1,4 +1,0 @@
-$ git clone https://github.com/up2code/sample-bot.git
-$ npm install
-botRem.login('MzAxMjE5NzA1MTc0MzYwMDY0.C83_Vg.mfVf5USnWdSmxfBPPodWlK0BhMI');
-$ node myBot.js
